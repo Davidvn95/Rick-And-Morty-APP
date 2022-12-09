@@ -9,3 +9,4 @@ Cuenta con las siguientes tecnologías:
 - REACT
 
 Espero que sea de su agrado.
+# Para iniciar la aplicación por favor use el comando *npm start*
