@@ -1,0 +1,44 @@
+.contenedor {
+    background-color: rgba(16, 8, 44, 0.644);
+    width: 16rem;
+    height: 19rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border-radius: 2rem;
+    padding: 0.5em;
+    padding-top: 1em;
+    text-align: center;
+}
+
+.contenedorNameButton {
+    width: 16rem;
+    margin: 0px auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    gap: 1em;
+}
+
+.contenedorNameButton h2 {
+    margin: 0px auto;
+    color: yellowgreen;
+}
+
+.button {
+    width: -mozfit-content;
+    height: -mozfit-content;
+
+    border-radius: 40%;
+    color: rgb(26, 20, 51);
+    font-weight: bold;
+    background-color: rgb(212, 159, 59);
+}
+
+.img {
+    margin: 0px auto;
+    width: 200px;
+    height: 200px;
+    border: 1px lightgreen;
+}

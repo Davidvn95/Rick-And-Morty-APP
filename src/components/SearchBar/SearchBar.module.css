@@ -1,0 +1,31 @@
+.busqueda {
+    width: -mozfit-content;
+    margin: 0px auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 1em;
+}
+
+.button {
+    margin: 0px auto;
+    font-weight: bold;
+    font-size: medium;
+    width: 6em;
+    height: 2em;
+    border-radius: 10px;
+    color: rgb(26, 20, 51);
+    font-weight: bold;
+    background-color: rgb(160, 161, 240);
+}
+
+.input {
+    font-weight: bold;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 45px;
+    padding: 3px;
+    width: 200px;
+    height: 2.5em;
+    background-color: rgb(202, 209, 238);
+}

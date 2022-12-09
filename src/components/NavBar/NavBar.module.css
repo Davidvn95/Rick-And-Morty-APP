@@ -1,0 +1,23 @@
+.navBar {
+    background-color: rgb(28, 6, 63);
+    padding: 0.7rem 8rem 0.7rem 8rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+    position: fixed;
+    width: 65rem;
+    top: 0em;
+}
+
+.button {
+    margin: 0px auto;
+    font-weight: bold;
+    font-size: medium;
+    width: 6em;
+    height: 2em;
+    border-radius: 10px;
+    color: rgb(26, 20, 51);
+    font-weight: bold;
+    background-color: rgb(160, 161, 240);
+}

@@ -1,0 +1,22 @@
+.contenedor {
+    /* padding: 2em;
+    display:  grid;
+    grid-template-columns:  1fr 1fr 1fr;
+    gap: 18px; */
+    margin-top: 5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap-reverse;
+    gap: 1rem;
+}
+
+.initialMessage {
+    border: 1px solid rgb(141, 140, 140);
+    background-color: rgba(136, 136, 173, 0.404);
+    color: rgb(243, 239, 239);
+    font-weight: bold;
+    font-size: large;
+    padding: 2rem;
+    margin-top: 10rem;
+}

@@ -1,0 +1,25 @@
+.form {
+    width: 400px;
+    height: 200px;
+    margin: 0px auto;
+    margin-top: 6rem;
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.form button {
+    margin: 0px auto;
+    width: -mozfit-content;
+}
+
+.form div {
+    display: flex;
+    flex-direction: column;
+}
+.input {
+    width: 200px;
+    margin: 0px auto;
+}

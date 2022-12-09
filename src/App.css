@@ -1,0 +1,22 @@
+.App {
+    text-align: center;
+    width: auto;
+    height: 650px;
+    box-sizing: border-box;
+    background-image: url("https://p4.wallpaperbetter.com/wallpaper/547/940/960/tv-show-rick-and-morty-landscape-morty-smith-rick-sanchez-hd-wallpaper-preview.jpg");
+    background-size: cover;
+    background-position: center;
+    resize: both;
+    overflow: auto;
+    background-repeat: space;
+    gap: 1em;
+}
+
+img {
+    margin-top: -5rem;
+    height: 400px;
+}
+
+h1 {
+    margin-top: 4rem;
+}
